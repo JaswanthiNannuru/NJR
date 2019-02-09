@@ -1,6 +1,6 @@
 # NJR
 Nannuru Jaswanthi Reddy
-# nannuru
+# aboutme
 Am jaswanthi from india is here in Northwest Missouri State University for my masters degree. All this belongs to WEB APPS.
 ## p1 publishing site
 yes this is my publishing site and can look forward for all the publishing site.
